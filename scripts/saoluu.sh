@@ -1,6 +1,6 @@
 
 #!/bin/bash
-
+# Chuong trinh sao luu du lieu bang tar
 # Xac dinh thu muc bai tap
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$(dirname "$SCRIPT_DIR")"
