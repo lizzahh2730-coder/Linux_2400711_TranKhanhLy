@@ -1,6 +1,7 @@
 
-#!/bin/bash
 
+#!/bin/bash
+# Chuong trinh quan ly va xu ly du lieu sinh vien
 # Xac dinh thu muc bai tap
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 DATA_FILE="$SCRIPT_DIR/../data/sinhvien.txt"
